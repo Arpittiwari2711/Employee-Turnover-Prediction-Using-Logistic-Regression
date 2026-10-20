@@ -574,7 +574,7 @@ Follow the steps below to run the project locally.
 Replace `REPOSITORY-NAME` with the actual name of your GitHub repository.
 
 ```bash
-git clone https://github.com/Arpittiwari2711/REPOSITORY-NAME.git
+git clone https://github.com/Arpittiwari2711/Employee-Turnover-Prediction-Using-Logistic-Regression.git
 ```
 
 ## 2. Navigate to the Project Directory
